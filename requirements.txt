@@ -1,0 +1,6 @@
+gradio>=4.0.0
+requests>=2.31.0
+huggingface_hub
+pdfplumber
+python-docx
+openpyxl
